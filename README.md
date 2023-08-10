@@ -1,19 +1,19 @@
 # Amazon-Web-App-Automation-Project
 
-Hybrid Framework For "Amazon" Web Application
+Hybrid Framework For "Amazon" Web Application  
 
-*This is a test driven automation framework can be use to automate following fuctionality of Amazon e commerce site,
+*This is a test driven automation framework can be use to automate following fuctionality of Amazon e commerce site,  
 
-1 Navigation to official Amazon site (https://www.amazon.com/)
-2.Select a category from the Category list
-3.Search for the search term in search bar
-4.Select Customer Reviews 
-5.Select a Language
-6.Get the name of the second item from the Product List page
-7.Adding a prodaut to cart
-8.Go to the cart and validating the product and clearing the list
+1 Navigation to official Amazon site (https://www.amazon.com/)  
+2.Select a category from the Category list  
+3.Search for the search term in search bar  
+4.Select Customer Reviews    
+5.Select a Language  
+6.Get the name of the second item from the Product List page  
+7.Adding a prodaut to cart  
+8.Go to the cart and validating the product and clearing the list  
 
-To create this Framework I have used,
+To create this Framework I have used,  
 
 • TDD approach
 • JDK Java OOP Concept
