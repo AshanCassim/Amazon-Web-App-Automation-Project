@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Reward_Engine]">
+  <test thread-count="5" name="Reward_EngineProject(failed)">
+    <classes>
+      <class name="adl.reward.testcases.TC5">
+        <methods>
+          <include name="Test"/>
+          <include name="method"/>
+          <include name="setuplog"/>
+          <include name="tearDown"/>
+          <include name="report"/>
+        </methods>
+      </class> <!-- adl.reward.testcases.TC5 -->
+    </classes>
+  </test> <!-- Reward_EngineProject(failed) -->
+</suite> <!-- Failed suite [Reward_Engine] -->
